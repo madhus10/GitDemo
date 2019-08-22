@@ -7,6 +7,10 @@ public class AppTest
 {
 	@Test
 	public void t1() {
-		System.out.println("ti printed");
+		System.out.println("t1 printed");
+	}
+	@Test
+	public void t2() {
+		System.out.println("t2 printed");
 	}
 }
