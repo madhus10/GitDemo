@@ -13,4 +13,10 @@ public class AppTest
 	public void t2() {
 		System.out.println("t2 printed");
 	}
+	@Test(priority=2)
+	public void DriverInit1() {
+		
+		
+	}
+
 }
