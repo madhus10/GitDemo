@@ -25,5 +25,10 @@ public class AppTest
 		
 		
 	}
-
+@Test(priority=4)
+	public void DriverInit1234() {
+		System.out.println("Done 1234");
+		
+		
+	}
 }
