@@ -19,5 +19,11 @@ public class AppTest
 		
 		
 	}
+	@Test(priority=3)
+	public void DriverInit123() {
+		System.out.println("Done 123");
+		
+		
+	}
 
 }
