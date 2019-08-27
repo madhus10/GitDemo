@@ -11,6 +11,7 @@ public class App
         System.out.println( "Hello World!" );
        int x;
        int y;
+       int z;
     }
     
 }
